@@ -1,0 +1,53 @@
+h2 {
+  font-size: xx-large larger;
+  
+  animation: alternate-reverse;
+}
+p {
+  background-color: rgba(95, 158, 160, 0.486);
+  height: 50px;
+  color: grey;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: lighter;
+  padding: 15px;
+  border: 5px solid blueviolet;
+  margin: 10px;
+}
+
+
+a:hover.call {
+  color: rgb(52, 209, 17);
+  text-decoration: wavy;
+}
+.call {
+  color: red;
+  font-weight: bold;
+}
+p em {
+  font-style: italic;
+}
+#two:hover {
+  color: aqua;
+  background-color: black;
+  font-weight: bold;
+}
+nav a{
+    text-decoration: none;
+    color: beige; 
+    text-align: center;
+    padding: 12px;
+    float: left;
+
+
+    
+}
+nav{
+    background-color: black;
+    overflow: hidden;
+}
+a:hover {
+  color: palevioletred;
+}
+a:visited {
+  color: rgb(30, 227, 63);
+}
